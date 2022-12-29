@@ -1,5 +1,4 @@
-// локальная работа портала
-
+//Auth data
 #define AP_SSID "WireMesh"
 #define AP_PASS "Internet941"
 
