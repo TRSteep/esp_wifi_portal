@@ -1,8 +1,9 @@
+//Library
+#include <GyverPortal.h>
+
 //Auth data
 #define AP_SSID "WireMesh"
 #define AP_PASS "Internet941"
-
-#include <GyverPortal.h>
 
 // конструктор страницы
 void build() {
